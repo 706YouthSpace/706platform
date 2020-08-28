@@ -2,3 +2,4 @@
 *.rpteam filter=lfs diff=lfs merge=lfs -text
 *.rp filter=lfs diff=lfs merge=lfs -text
 *.sketch filter=lfs diff=lfs merge=lfs -text
+*.rpteam
